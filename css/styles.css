@@ -63,12 +63,17 @@ p {
 /* Title Image */
 .title-image {
   width: 100%;
+  position:absolute;
+  right:0%;
   /* transform:rotate(15deg); */
 }
 
 /* Features section */
 #features {
   padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
 }
 
 .feature-box {
