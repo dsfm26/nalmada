@@ -141,3 +141,28 @@ p {
     text-align: center;
   }
 }
+
+/* CTA Section */
+#cta{
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+  padding: 7% 7%;
+}
+
+.cta-text{
+  font-family:"Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+
+/* Footer Button */
+#footer{
+  padding: 7% 7%;
+  text-align: center;
+}
+
+.social-icon {
+  padding: 3%;
+}
