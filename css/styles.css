@@ -128,3 +128,16 @@ p {
 .pricing-column{
   padding:3% 2%;
 }
+
+@media (max-width:1028px){
+  .title-image{
+    width: 100%;
+    position: static;
+    right:0%;
+    /* transform:rotate(15deg); */
+  }
+
+  #title {
+    text-align: center;
+  }
+}
